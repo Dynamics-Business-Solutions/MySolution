@@ -10,7 +10,14 @@
   "help": "",
   "url": "",
   "logo": "",
-  "dependencies": [],
+  "dependencies": [
+    {
+      "id": "1427e555-c856-49cd-88bc-a6534e602dd0",
+      "name": "mysolution.w1",
+      "publisher": "Dynamics Business Solutions Co. W.L.L",
+      "version": "1.0.0.0"
+      }
+  ],
   "screenshots": [],
   "platform": "1.0.0.0",
   "application": "22.0.0.0",
